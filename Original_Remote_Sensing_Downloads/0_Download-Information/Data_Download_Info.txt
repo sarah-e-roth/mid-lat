@@ -1,0 +1,48 @@
+Remote Sensing Data Download Information:
+
+Census State Boundaries:
+	downloaded 3/5/2024
+	https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+	cb_2018_us_state_500k.zip
+
+EPA Level 3 Ecoregions
+	downloaded 3/5/2024
+	https://gaftp.epa.gov/EPADataCommons/ORD/Ecoregions/us/us_eco_l3.zip
+	US Level III Ecoregions Shapefile without State Boundaries
+
+GEDI:
+	downloaded 3/5/2024
+	NASA Earthdata download center
+	Specific files downloaded available in 'download_script.sh'
+	Level 3 Gridded Land Surface Metrics V2
+	Level 4A Footprint Level Aboveground Biomass
+	Level 4B Gridded Aboveground Biomass Density
+
+Landsat NLCD:
+   	downloaded 3/5/2024
+	https://www.mrlc.gov/data
+	NLCD Land Cover Change Index (CONUS|2021, 2019, 2016, 2013, 2011, 2008, 2006, 2004, 2001)
+	2021 NLCD
+
+MODIS/VIIRS:
+	downloaded 3/5/2024
+	NASA Earthdta Download Center
+	Specific files downloaded available in 'download_script.sh'
+	Monthly Burned Area
+	Global Fire Atlas
+	Land Water Mask
+
+MTBS:
+	downloaded 3/5/2024
+	https://mtbs.gov/direct-download
+	National Fire Occurrence Dataset (1984-2022)
+	National Burned Areas Boundaries Dataset (1984-2022)
+	National Mosaics (1984-2022)
+
+USDA FIA Forest Classification:
+	downloaded 3/5/2024
+	https://data.fs.usda.gov/geodata/rastergateway/forest_type/
+	Conus Forest Group
+	Conus Forest Type
+	
+
