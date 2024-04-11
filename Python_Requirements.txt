@@ -1,0 +1,7 @@
+# Python Requirements
+h5py
+pandas
+geopandas
+numpy
+centextily
+shapely
