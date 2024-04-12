@@ -55,7 +55,7 @@ venv.bak/
 .Rapp.history
 
 ## Session Data Files
-.RData
+*.RData
 .RDataTmp
     
 ## User-specific files
