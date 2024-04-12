@@ -1,0 +1,4 @@
+# R Requirements
+terra
+sf
+stringr
