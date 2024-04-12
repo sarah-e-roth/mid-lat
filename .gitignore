@@ -96,3 +96,4 @@ Cropped_Projected_Remote_Sensing/Landsat_NLCD
 Cropped_Projected_Remote_Sensing/MODIS_VIIRS
 Cropped_Projected_Remote_Sensing/MTBS
 Cropped_Projected_Remote_Sensing/USDA_FIA
+*.RData
